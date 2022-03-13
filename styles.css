@@ -1,0 +1,14 @@
+body {
+  padding: 0;
+}
+
+button {
+  font-size: large;
+  border: 2px dotted rgb(255, 115, 155);
+  color: rgb(255, 115, 155);
+  font-weight: 500;
+  padding: 4px;
+  margin: 2px;
+  text-align: center;
+  border-radius: 25%;
+}
